@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE "Products" ALTER COLUMN "subCategory1" DROP NOT NULL,
+ALTER COLUMN "subCategory2" DROP NOT NULL,
+ALTER COLUMN "subCategory3" DROP NOT NULL;
